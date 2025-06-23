@@ -44,6 +44,14 @@ This includes:
 
 This repository contains **only the frontend part** of the graduation project.
 
+---
+## Live Demo
+Frontend deployed on Vercel:
+ [https://drplant.vercel.app](https://dr-plant-app.vercel.app/)
+
+ Note: The backend API is currently offline, so data-related features might not work.
+
+
 
 
 
