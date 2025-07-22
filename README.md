@@ -1,6 +1,6 @@
 # Dr. Plant – AI-Powered Plant Diagnosis & E-commerce Platform
 
-**Dr. Plant** is a smart graduation project that empowers users to identify plant diseases using AI and shop for related care products in one place.
+**Dr. Plant** is a smart graduation project that empowers users to identify plant diseases using AI and shop for related care products in one place..
 
  [Watch Demo Video](https://drive.google.com/file/d/1FXfCEkJ4SlKTN61Cz4xE6mldJLVQdoRM/view?usp=sharing)
 
